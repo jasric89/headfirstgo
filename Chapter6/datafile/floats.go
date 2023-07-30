@@ -10,7 +10,7 @@ func GetFloats(fileName string) ([]float64, error) {
 	var numbers []float64
 	file, err := os.Open(fileName)
 	if err != nil {
-		return numbers, err
+		return nil, err
 	}
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
