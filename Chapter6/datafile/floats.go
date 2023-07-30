@@ -1,4 +1,4 @@
-package datafilevtwo
+package datafile
 
 import (
 	"bufio"
