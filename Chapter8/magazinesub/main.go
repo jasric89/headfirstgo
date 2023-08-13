@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	var s magazine.subscriber
+	var s magazineone.subscriber
 	s.rate = 4.99
 	fmt.Println(s.rate)
 }
