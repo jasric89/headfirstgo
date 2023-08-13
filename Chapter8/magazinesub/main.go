@@ -8,6 +8,6 @@ import (
 
 func main() {
 	var s magazineone.Subscriber
-	s.rate = 4.99
-	fmt.Println(s.rate)
+	s.Rate = 4.99
+	fmt.Println(s.Rate)
 }
