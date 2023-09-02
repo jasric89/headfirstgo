@@ -1,0 +1,7 @@
+┗ 📂settermethod
+  ┣ 📂calendar
+  ┃ ┣ 📜calendar.go
+  ┃ ┗ 📜event.go
+  ┣ 📜eventmain.go
+  ┣ 📜go.mod
+  ┗ 📜settermethod.go
