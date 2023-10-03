@@ -137,6 +137,9 @@ func main() {
 }
 
 /*
-curl -s --compressed "https://api.search.brave.com/res/v1/web/search?q=brave+search" -H "Accept: application/json"
-    -H "Accept-Encoding: gzip" -H "X-Subscription-Token: BSAl9dM0lmw9MFeqKSgYPNmh8SBxPRp"
+curl -s --compressed "https://api.search.brave.com/res/v1/web/search?q=brave+search" -H "Accept: application/json" -H "Accept-Encoding: gzip" -H "X-Subscription-Token: BSAiP3U464NR0_GhPnhQLneMi4HOXVg"
+*/
+/*
+To use this program the input must be
+go run getwebpage.go -token "VALUE" -searchterm "VALUE"
 */
